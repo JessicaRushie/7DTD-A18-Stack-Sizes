@@ -1,0 +1,15 @@
+<!-- This is to increase the Building blocks -->
+<configs>
+
+<!-- This is to remove the Building blocks default stach number of 500 -->
+<remove xpath="/blocks/block/property[@name='Stacknumber']"/>
+
+<!-- This is to replace the Building blocks stack number -->
+<append xpath="/blocks/block" >
+ 
+ <!-- You can change this value to whatever you like -->
+	<property name="Stacknumber" value="10000"/>
+
+</append>
+
+</configs>
