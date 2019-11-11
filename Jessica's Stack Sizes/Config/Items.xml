@@ -170,7 +170,7 @@
 		<set xpath="/items/item[@name='resourceRockSmallBundle']/property[@name='Stacknumber' and @value='5']/@value">5000</set>
 		<set xpath="/items/item[@name='toolBeaker']/property[@name='Stacknumber' and @value='10']/@value">5000</set>
 		<set xpath="/items/item[@name='unit_iron']/property[@name='Stacknumber' and @value='30000']/@value">25000</set>
-		<set xpath="/items/item[@name='casinoCoin']/property[@name='Stacknumber' and @value='20000']/@value">100000</set>
+		<set xpath="/items/item[@name='casinoCoin']/property[@name='Stacknumber' and @value='20000']/@value">25000</set>
 		<set xpath="/items/item[@name='oldCash']/property[@name='Stacknumber' and @value='10000']/@value">25000</set>
 		<set xpath="/items/item[@name='candle']/property[@name='Stacknumber' and @value='50']/@value">5000</set>
 		<set xpath="/items/item[@name='partsMaster']/property[@name='Stacknumber' and @value='50']/@value">5000</set>
