@@ -83,7 +83,8 @@
 		<set xpath="/items/item[@name='medicalFirstAidBandage']/property[@name='Stacknumber' and @value='5']/@value">5000</set>
 		<set xpath="/items/item[@name='medicalFirstAidKit']/property[@name='Stacknumber' and @value='5']/@value">5000</set>
 		<set xpath="/items/item[@name='medicalSplint']/property[@name='Stacknumber' and @value='5']/@value">5000</set>
-		<set xpath="/items/item[@name='medicalBloodBag']/property[@name='Stacknumber' and @value='5']/@value">5000</set>
+		<!-- Blood bag removed for now as TFP keeps changing the stack ammount -->
+		<!-- <set xpath="/items/item[@name='medicalBloodBag']/property[@name='Stacknumber' and @value='5']/@value">5000</set> -->
 		<set xpath="/items/item[@name='drugVitamins']/property[@name='Stacknumber' and @value='10']/@value">5000</set>
 		<set xpath="/items/item[@name='drugPainkillers']/property[@name='Stacknumber' and @value='10']/@value">5000</set>
 		<set xpath="/items/item[@name='drugHerbalAntibiotics']/property[@name='Stacknumber' and @value='10']/@value">5000</set>
