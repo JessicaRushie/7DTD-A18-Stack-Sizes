@@ -1,4 +1,4 @@
-A MOD to increase "Most" stack sizes.
+A MOD to increase "Most" stack sizes. (Should be future safe)
 
 Very usefull to builders as all building blocks are also included.
 
